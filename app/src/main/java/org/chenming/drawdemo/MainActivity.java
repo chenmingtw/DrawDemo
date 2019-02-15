@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     // List items
     private String[] drawList = {
             GeometricCameraActivity.class.getSimpleName(),
+            AnimationViewPropertyActivity.class.getSimpleName(),
             AnimationObjectAnimatorActivity.class.getSimpleName()
     };
 
